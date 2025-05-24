@@ -7,14 +7,14 @@ permalink:        pretty
 # relative_permalinks: true
 
 # Setup
-title:            Hyde
+title:            Joy
 tagline:          'A Jekyll theme'
 description:      'Blogposts about CS, Math, Finance, Economics and more'
-url:              http://hyde.getpoole.com
+# url:              http://hyde.getpoole.com
 baseurl:          ''
 
 author:
-  name:           'Mark Otto'
+  name:           ''
   url:            https://eternalbujoyy.github.io/
 
 
